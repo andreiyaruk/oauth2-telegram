@@ -1,1 +1,3 @@
-# oauth2-telegram
+# Telegram OAuth2 Provider
+
+
