@@ -15,12 +15,10 @@
     "require-dev": {
         "phpunit/phpunit": "^5.0"
     },
-    "scripts": {
-        "test": "phpunit"
-    },
     "autoload": {
         "psr-4": {
             "Andreiyaruk\\OAuth2\\Client\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
