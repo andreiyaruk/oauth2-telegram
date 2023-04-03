@@ -1,6 +1,6 @@
 <?php
 
-namespace Yaruk\OAuth2\Client\Provider;
+namespace Andreiyaruk\OAuth2\Client\Provider;
 
 use League\OAuth2\Client\Provider\AbstractProvider;
 use League\OAuth2\Client\Token\AccessToken;
