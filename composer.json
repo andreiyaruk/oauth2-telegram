@@ -19,6 +19,5 @@
         "psr-4": {
             "Andreiyaruk\\OAuth2\\Client\\": "src"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
