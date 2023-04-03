@@ -1,5 +1,5 @@
 {
-    "name": "yaruk/oauth2-telegram",
+    "name": "andreiyaruk/oauth2-telegram",
     "description": "telegram",
     "license": "MIT",
     "authors": [
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Yaruk\\OAuth2\\Client\\": "src"
+            "Andreiyaruk\\OAuth2\\Client\\": "src"
         }
     }
 }
